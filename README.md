@@ -1,2 +1,2 @@
-# java8
+# Java
 My attempts at learning java
